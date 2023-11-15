@@ -7,7 +7,7 @@ Text sentiment analysis using a Bernoulli Naive Bayes classifier. This project p
 - **Sentiment Classification:** Utilizes Bernoulli Naive Bayes to classify text sentiment.
 - **Data Preprocessing:** Includes data preprocessing steps like text cleaning, tokenization, and feature extraction.
 - **Model Evaluation:** Evaluates the performance of the sentiment analysis model using various metrics.
-- **Example Usage:** Provides examples and a simple user interface to test the sentiment analysis on your own text data.
+- **Example Usage:** Provides examples and a simple user interface to test the sentiment analysis on your own text data. 
 
 ## Installation 
 
