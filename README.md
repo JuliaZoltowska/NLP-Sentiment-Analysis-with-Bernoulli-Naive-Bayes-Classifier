@@ -9,15 +9,14 @@ Text sentiment analysis using a Bernoulli Naive Bayes classifier. This project p
 - **Model Evaluation:** Evaluates the performance of the sentiment analysis model using various metrics.
 - **Example Usage:** Provides examples and a simple user interface to test the sentiment analysis on your own text data. 
 
-## Installation 
+##Steps performed:
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/text-sentiment-analysis.git
-python main.py
-Contributing
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+- downloading data 
+- labeling the data (we already have this too)
+- cleaning and normalizing the text
+- tokenization, stemming, lemmatization
+- feature extraction
+- classification
 
 ## License
 
