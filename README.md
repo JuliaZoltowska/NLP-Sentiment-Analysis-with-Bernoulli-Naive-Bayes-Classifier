@@ -9,7 +9,7 @@ Text sentiment analysis using a Bernoulli Naive Bayes classifier. This project p
 - **Model Evaluation:** Evaluates the performance of the sentiment analysis model using various metrics.
 - **Example Usage:** Provides examples and a simple user interface to test the sentiment analysis on your own text data. 
 
-##Steps performed:
+## Steps performed
 
 - downloading data 
 - labeling the data (we already have this too)
